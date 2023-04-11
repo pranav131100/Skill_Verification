@@ -32,8 +32,7 @@ export default class App extends Component {
         this.setState({loader: false});
       })
       .catch(()=>{
-        // TODO toast error
-        // this.setState({loader: true});
+        
       });
   }
   render() {
@@ -44,7 +43,7 @@ export default class App extends Component {
         <div className="body">
             <Header/>
             <Routes menu={this.state.routes}/>
-            <Footer/>
+            {/* <Footer/> */}
         </div>
       </Router>
     );

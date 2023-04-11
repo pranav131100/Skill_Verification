@@ -9,11 +9,11 @@ export default class About extends Component {
 				<hr/>
 				<br/>
 				<ul className='custom-bullet'>
-        <li><p>The basic idea of this application is to automate the process of document verification from different entities.</p></li>
-        <li><p>A requester upload a document to blockchain for a verifier.</p></li>
-				<li><p>Requester pay the price for document verification in ether.</p></li>
-        <li><p>The verifier verifies or rejects the document.</p></li>
-				<li><p>Once a verifier verifies the document, he gets ethers in reward.</p></li>
+        <li><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At, eaque?</p></li>
+        <li><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor iure soluta obcaecati explicabo sapiente vero error expedita eaque maxime magni?</p></li>
+				<li><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, reiciendis maiores. Eaque!</p></li>
+        <li><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea eaque laudantium perferendis voluptatem! Ducimus architecto vero provident atque unde molestiae commodi molestias!</p></li>
+				<li><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque tenetur natus necessitatibus nihil facere quia voluptas ullam iusto.</p></li>
 				</ul>
 			</div>
 	  );

@@ -69,6 +69,7 @@ body {
 }
 .btn{
   border-radius: 0 !important;
+
 }
 .padding-bottom-16 {
   padding-bottom: 16px;
@@ -119,11 +120,11 @@ hr {
 }
 
 .bg-clr{
-background-color:#3e3e3e !important;
+background-color:#060047 !important;
 }
 
 .custom-h3 {
-  color:#3e3e3e;
+  color:#060047;
   margin-top: 20px;
 }
  .custom-img{
@@ -139,34 +140,34 @@ margin-top: 50px;
  }
 
  .custom-h1{
-   color:#3e3e3e;
+   color:#060047;
  }
  .custom-h2{
-  color:#3e3e3e;
+  color:#060047;
   margin-top: 30px;
   margin-bottom: 100px;
 }
 
  .custom-acc{
-   color:#3e3e3e;
+   color:#060047;
    margin-top: 1.5%;
  }
 .btn-verify{
-  color:#3e3e3e;
+  color:#060047;
 }
 .custom-login{
-  color:#3e3e3e;
+  color:#060047;
   margin-bottom: 5%;
 }
 .custom-acc1{
-  color:#3e3e3e;
+  color:#060047;
   padding-top: 8px;
   padding-right: 2px;
   margin-left: 80px;
 }
 .btn-login{
   margin-top: 50px;
-  color:#3e3e3e;
+  color:#060047;
 }
 .custom-p{
   color:#333;
@@ -179,26 +180,26 @@ margin-top: 50px;
 }
 .container-img1 {
   position: fixed;
-  color:#3e3e3e;
+  color:#060047;
   font-size: 50px;
 }
 .custom-t{
-  color:#3e3e3e;
+  color:#060047;
 }
 .custom-p{
-  color:#3e3e3e;
+  color:#060047;
   
 }
 .custom-footer{
   color:#fff;
 }
 .custom-product{
-  color:#4D5656;
+  color:#B3005E;
   font-size: 20px;
   margin-left: 790px;
 }
 .custom-bullet{
-  color:#4D5656;
+  color:#B3005E;
 
 }
 .collapse{
@@ -208,7 +209,7 @@ margin-top: 50px;
   position: fixed;
   bottom: 0;
   width: 100%;
-  background-color: #3e3e3e;
+  background-color: #060047;
   
 }
 .responsive {
@@ -227,11 +228,11 @@ margin-top: 50px;
   font-size: 30px;
   margin-top: 250px;
   float: right;
-  color: #3e3e3e;
+  color: #060047;
 }
 .responsivetextb {
   width: 60%;
-  color:#4D5656;
+  color:#B3005E;
   height: auto;
 
   font-size: 18px;
@@ -245,7 +246,7 @@ margin-top: 50px;
   background-color: rgb(156, 20, 20) !important;
 }
 .bg-pending{
-  background-color: #3e3e3e !important;
+  background-color: #060047 !important;
 }
 .bg-pendload{
   background-color: #da8059 !important;
@@ -257,7 +258,7 @@ margin-top: 50px;
   background-color: #51af67 !important;
 }
 .custom-name{
-  color:#4D5656;
+  color:#B3005E;
 
 }
 table {
@@ -267,18 +268,18 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 1px solid #FF5F9E;
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #FF5F9E;
 }
 
 .transhead{
   text-align: center;
-  color: #4D5656;
+  color: #B3005E;
 }
 .number{
   width: 8%;
@@ -291,7 +292,7 @@ tr:nth-child(even) {
 }
 .no{
   text-align: center;
-  color: #3e3e3e;
+  color: #060047;
 }
 .no1{
   text-align: center;
