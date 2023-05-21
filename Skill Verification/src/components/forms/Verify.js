@@ -109,7 +109,7 @@ export default class Verify extends Component {
             <div className='col-12'>
               <span className="custom-h1"> Verifier&nbsp; </span>
               <span>
-                {this.props.documents.document.requester}
+                {this.props.documents.document.verifier}
                 </span>
             </div>
             <div className='col-12'>
